@@ -8,7 +8,7 @@ namespace Lecture___03___Namespace___Main_Method__
 {
     internal class Program
     {
-        //Main Method :- Its an entry point , and we can cannot change name of main method
+        //Main Method :- Its an entry point and we can cannot change name of main method
         static void Main(string[] args)
         {
             Console.WriteLine("Namespace & MainMethod");
