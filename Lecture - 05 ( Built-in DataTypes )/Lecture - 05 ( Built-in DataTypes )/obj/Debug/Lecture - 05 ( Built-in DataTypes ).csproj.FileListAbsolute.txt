@@ -1,0 +1,7 @@
+C:\Users\mayan\OneDrive\Desktop\C-Sharph Tutorial\Lecture - 05 ( Built-in DataTypes )\Lecture - 05 ( Built-in DataTypes )\bin\Debug\Lecture - 05 ( Built-in DataTypes ).exe.config
+C:\Users\mayan\OneDrive\Desktop\C-Sharph Tutorial\Lecture - 05 ( Built-in DataTypes )\Lecture - 05 ( Built-in DataTypes )\bin\Debug\Lecture - 05 ( Built-in DataTypes ).exe
+C:\Users\mayan\OneDrive\Desktop\C-Sharph Tutorial\Lecture - 05 ( Built-in DataTypes )\Lecture - 05 ( Built-in DataTypes )\bin\Debug\Lecture - 05 ( Built-in DataTypes ).pdb
+C:\Users\mayan\OneDrive\Desktop\C-Sharph Tutorial\Lecture - 05 ( Built-in DataTypes )\Lecture - 05 ( Built-in DataTypes )\obj\Debug\Lecture - 05 ( Built-in DataTypes ).csproj.AssemblyReference.cache
+C:\Users\mayan\OneDrive\Desktop\C-Sharph Tutorial\Lecture - 05 ( Built-in DataTypes )\Lecture - 05 ( Built-in DataTypes )\obj\Debug\Lecture - 05 ( Built-in DataTypes ).csproj.CoreCompileInputs.cache
+C:\Users\mayan\OneDrive\Desktop\C-Sharph Tutorial\Lecture - 05 ( Built-in DataTypes )\Lecture - 05 ( Built-in DataTypes )\obj\Debug\Lecture - 05 ( Built-in DataTypes ).exe
+C:\Users\mayan\OneDrive\Desktop\C-Sharph Tutorial\Lecture - 05 ( Built-in DataTypes )\Lecture - 05 ( Built-in DataTypes )\obj\Debug\Lecture - 05 ( Built-in DataTypes ).pdb
