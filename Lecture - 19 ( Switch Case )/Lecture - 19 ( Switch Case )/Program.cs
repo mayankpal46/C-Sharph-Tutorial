@@ -25,6 +25,12 @@ namespace Lecture___19___Switch_Case__
                 case 192:
                     Console.WriteLine("Mil Gaya");
                     break;
+                case 1002:
+                case 21002:
+                case 2001:
+                    Console.WriteLine("Out of Range");
+                    break;
+
                 default:
                     Console.WriteLine("Kuch nahi match hua");
                     break;
