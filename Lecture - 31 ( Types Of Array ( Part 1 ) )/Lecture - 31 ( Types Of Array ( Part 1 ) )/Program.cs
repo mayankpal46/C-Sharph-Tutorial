@@ -39,7 +39,7 @@ namespace Lecture___31___Types_Of_Array___Part_1____
                 for (int j = 0; j < marray.GetLength(1); j++)
                 {
                     Console.Write(marray[i,j] + " ");
-                }
+                }   
                 Console.WriteLine();
             }
 
