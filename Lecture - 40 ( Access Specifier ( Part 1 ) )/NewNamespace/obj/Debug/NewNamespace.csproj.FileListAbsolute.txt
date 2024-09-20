@@ -1,0 +1,11 @@
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 40 ( Access Specifier ( Part 1 ) )\NewNamespace\bin\Debug\NewNamespace.exe.config
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 40 ( Access Specifier ( Part 1 ) )\NewNamespace\bin\Debug\NewNamespace.exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 40 ( Access Specifier ( Part 1 ) )\NewNamespace\bin\Debug\NewNamespace.pdb
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 40 ( Access Specifier ( Part 1 ) )\NewNamespace\bin\Debug\Lecture - 40 ( Access Specifier ( Part 1 ) ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 40 ( Access Specifier ( Part 1 ) )\NewNamespace\bin\Debug\Lecture - 40 ( Access Specifier ( Part 1 ) ).pdb
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 40 ( Access Specifier ( Part 1 ) )\NewNamespace\bin\Debug\Lecture - 40 ( Access Specifier ( Part 1 ) ).exe.config
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 40 ( Access Specifier ( Part 1 ) )\NewNamespace\obj\Debug\NewNamespace.csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 40 ( Access Specifier ( Part 1 ) )\NewNamespace\obj\Debug\NewNamespace.csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 40 ( Access Specifier ( Part 1 ) )\NewNamespace\obj\Debug\NewNames.014BA5FD.Up2Date
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 40 ( Access Specifier ( Part 1 ) )\NewNamespace\obj\Debug\NewNamespace.exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 40 ( Access Specifier ( Part 1 ) )\NewNamespace\obj\Debug\NewNamespace.pdb
