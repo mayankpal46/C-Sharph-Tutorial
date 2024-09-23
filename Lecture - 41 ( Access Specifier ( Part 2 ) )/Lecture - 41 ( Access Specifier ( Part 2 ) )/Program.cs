@@ -28,6 +28,8 @@ namespace Lecture___41___Access_Specifier___Part_2____
 
         internal void M5()
         {
+            A obs = new A();
+            obs.M1();
             Console.WriteLine("Internal Method");
         }    
     }
