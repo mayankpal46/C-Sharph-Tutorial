@@ -11,6 +11,7 @@ namespace Lecture___42___Encapsulation_in_C_Sharph__
         private int x; 
         public string s;
         public int y;
+        private string st = "roy";
 
         public void setno(int no)
         {
@@ -50,6 +51,7 @@ namespace Lecture___42___Encapsulation_in_C_Sharph__
 
             obj.sets("Rudhra");
             obj.gets();
+            obj
 
         }
     }

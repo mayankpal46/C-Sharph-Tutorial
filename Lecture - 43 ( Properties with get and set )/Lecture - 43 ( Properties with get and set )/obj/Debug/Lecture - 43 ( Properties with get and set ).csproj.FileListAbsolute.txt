@@ -1,0 +1,7 @@
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 43 ( Properties with get and set )\Lecture - 43 ( Properties with get and set )\bin\Debug\Lecture - 43 ( Properties with get and set ).exe.config
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 43 ( Properties with get and set )\Lecture - 43 ( Properties with get and set )\bin\Debug\Lecture - 43 ( Properties with get and set ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 43 ( Properties with get and set )\Lecture - 43 ( Properties with get and set )\bin\Debug\Lecture - 43 ( Properties with get and set ).pdb
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 43 ( Properties with get and set )\Lecture - 43 ( Properties with get and set )\obj\Debug\Lecture - 43 ( Properties with get and set ).csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 43 ( Properties with get and set )\Lecture - 43 ( Properties with get and set )\obj\Debug\Lecture - 43 ( Properties with get and set ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 43 ( Properties with get and set )\Lecture - 43 ( Properties with get and set )\obj\Debug\Lecture - 43 ( Properties with get and set ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 43 ( Properties with get and set )\Lecture - 43 ( Properties with get and set )\obj\Debug\Lecture - 43 ( Properties with get and set ).pdb
