@@ -1,0 +1,7 @@
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 44 ( Static Properties )\Lecture - 44 ( Static Properties )\bin\Debug\Lecture - 44 ( Static Properties ).exe.config
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 44 ( Static Properties )\Lecture - 44 ( Static Properties )\bin\Debug\Lecture - 44 ( Static Properties ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 44 ( Static Properties )\Lecture - 44 ( Static Properties )\bin\Debug\Lecture - 44 ( Static Properties ).pdb
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 44 ( Static Properties )\Lecture - 44 ( Static Properties )\obj\Debug\Lecture - 44 ( Static Properties ).csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 44 ( Static Properties )\Lecture - 44 ( Static Properties )\obj\Debug\Lecture - 44 ( Static Properties ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 44 ( Static Properties )\Lecture - 44 ( Static Properties )\obj\Debug\Lecture - 44 ( Static Properties ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 44 ( Static Properties )\Lecture - 44 ( Static Properties )\obj\Debug\Lecture - 44 ( Static Properties ).pdb
