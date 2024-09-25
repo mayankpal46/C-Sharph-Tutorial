@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E55D0C3F-F2CC-4A7B-B0D1-AB8973772B92}</ProjectGuid>
+    <ProjectGuid>{B6FACC26-A61A-457A-A0C2-B55393C504FA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lecture___39___Types_of_Inheritance_in_C_Sharph__</RootNamespace>
-    <AssemblyName>Lecture - 39 %28 Types of Inheritance in C-Sharph %29</AssemblyName>
+    <RootNamespace>Lecture___50___Sealed_class___</RootNamespace>
+    <AssemblyName>Lecture - 50 %28 Sealed class  %29</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Mynewclass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

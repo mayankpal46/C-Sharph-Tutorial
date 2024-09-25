@@ -1,0 +1,7 @@
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 50 ( Sealed class  )\Lecture - 50 ( Sealed class  )\bin\Debug\Lecture - 50 ( Sealed class  ).exe.config
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 50 ( Sealed class  )\Lecture - 50 ( Sealed class  )\bin\Debug\Lecture - 50 ( Sealed class  ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 50 ( Sealed class  )\Lecture - 50 ( Sealed class  )\bin\Debug\Lecture - 50 ( Sealed class  ).pdb
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 50 ( Sealed class  )\Lecture - 50 ( Sealed class  )\obj\Debug\Lecture - 50 ( Sealed class  ).csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 50 ( Sealed class  )\Lecture - 50 ( Sealed class  )\obj\Debug\Lecture - 50 ( Sealed class  ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 50 ( Sealed class  )\Lecture - 50 ( Sealed class  )\obj\Debug\Lecture - 50 ( Sealed class  ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 50 ( Sealed class  )\Lecture - 50 ( Sealed class  )\obj\Debug\Lecture - 50 ( Sealed class  ).pdb
