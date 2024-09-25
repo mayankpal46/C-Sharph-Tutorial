@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture - 48 ( Method Overriding )", "Lecture - 48 ( Method Overriding )\Lecture - 48 ( Method Overriding ).csproj", "{B94E685A-402B-4A83-9F7F-8449DA1F1F84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B94E685A-402B-4A83-9F7F-8449DA1F1F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94E685A-402B-4A83-9F7F-8449DA1F1F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94E685A-402B-4A83-9F7F-8449DA1F1F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B94E685A-402B-4A83-9F7F-8449DA1F1F84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB3363C3-C030-4A2C-A1F3-C66F35DBAEC6}
+	EndGlobalSection
+EndGlobal
