@@ -35,7 +35,7 @@ namespace Lecture___46___Operator_Overloading_in_C___
 
             //This will call + function
             fobj = obj + obj1;
-            Console.WriteLine(fobj.no);
+            Console.WriteLine(fobj.no  );
 
         }
     }
