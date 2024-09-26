@@ -1,0 +1,7 @@
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 52 ( Lambda Expression )\Lecture - 52 ( Lambda Expression )\bin\Debug\Lecture - 52 ( Lambda Expression ).exe.config
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 52 ( Lambda Expression )\Lecture - 52 ( Lambda Expression )\bin\Debug\Lecture - 52 ( Lambda Expression ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 52 ( Lambda Expression )\Lecture - 52 ( Lambda Expression )\bin\Debug\Lecture - 52 ( Lambda Expression ).pdb
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 52 ( Lambda Expression )\Lecture - 52 ( Lambda Expression )\obj\Debug\Lecture - 52 ( Lambda Expression ).csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 52 ( Lambda Expression )\Lecture - 52 ( Lambda Expression )\obj\Debug\Lecture - 52 ( Lambda Expression ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 52 ( Lambda Expression )\Lecture - 52 ( Lambda Expression )\obj\Debug\Lecture - 52 ( Lambda Expression ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 52 ( Lambda Expression )\Lecture - 52 ( Lambda Expression )\obj\Debug\Lecture - 52 ( Lambda Expression ).pdb
