@@ -1,0 +1,7 @@
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 53 ( Abstract Class And Methods )\Lecture - 53 ( Abstract Class And Methods )\bin\Debug\Lecture - 53 ( Abstract Class And Methods ).exe.config
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 53 ( Abstract Class And Methods )\Lecture - 53 ( Abstract Class And Methods )\bin\Debug\Lecture - 53 ( Abstract Class And Methods ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 53 ( Abstract Class And Methods )\Lecture - 53 ( Abstract Class And Methods )\bin\Debug\Lecture - 53 ( Abstract Class And Methods ).pdb
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 53 ( Abstract Class And Methods )\Lecture - 53 ( Abstract Class And Methods )\obj\Debug\Lecture - 53 ( Abstract Class And Methods ).csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 53 ( Abstract Class And Methods )\Lecture - 53 ( Abstract Class And Methods )\obj\Debug\Lecture - 53 ( Abstract Class And Methods ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 53 ( Abstract Class And Methods )\Lecture - 53 ( Abstract Class And Methods )\obj\Debug\Lecture - 53 ( Abstract Class And Methods ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 53 ( Abstract Class And Methods )\Lecture - 53 ( Abstract Class And Methods )\obj\Debug\Lecture - 53 ( Abstract Class And Methods ).pdb
