@@ -1,0 +1,7 @@
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - ( Abstraction in C# )\Lecture - ( Abstraction in C# )\bin\Debug\Lecture - ( Abstraction in C# ).exe.config
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - ( Abstraction in C# )\Lecture - ( Abstraction in C# )\bin\Debug\Lecture - ( Abstraction in C# ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - ( Abstraction in C# )\Lecture - ( Abstraction in C# )\bin\Debug\Lecture - ( Abstraction in C# ).pdb
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - ( Abstraction in C# )\Lecture - ( Abstraction in C# )\obj\Debug\Lecture - ( Abstraction in C# ).csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - ( Abstraction in C# )\Lecture - ( Abstraction in C# )\obj\Debug\Lecture - ( Abstraction in C# ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - ( Abstraction in C# )\Lecture - ( Abstraction in C# )\obj\Debug\Lecture - ( Abstraction in C# ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - ( Abstraction in C# )\Lecture - ( Abstraction in C# )\obj\Debug\Lecture - ( Abstraction in C# ).pdb
