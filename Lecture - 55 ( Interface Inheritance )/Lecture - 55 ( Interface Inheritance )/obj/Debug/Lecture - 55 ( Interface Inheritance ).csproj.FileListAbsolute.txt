@@ -1,0 +1,7 @@
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 55 ( Interface Inheritance )\Lecture - 55 ( Interface Inheritance )\bin\Debug\Lecture - 55 ( Interface Inheritance ).exe.config
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 55 ( Interface Inheritance )\Lecture - 55 ( Interface Inheritance )\bin\Debug\Lecture - 55 ( Interface Inheritance ).exe
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 55 ( Interface Inheritance )\Lecture - 55 ( Interface Inheritance )\bin\Debug\Lecture - 55 ( Interface Inheritance ).pdb
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 55 ( Interface Inheritance )\Lecture - 55 ( Interface Inheritance )\obj\Debug\Lecture - 55 ( Interface Inheritance ).csproj.AssemblyReference.cache
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 55 ( Interface Inheritance )\Lecture - 55 ( Interface Inheritance )\obj\Debug\Lecture - 55 ( Interface Inheritance ).csproj.CoreCompileInputs.cache
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 55 ( Interface Inheritance )\Lecture - 55 ( Interface Inheritance )\obj\Debug\Lecture - 55 ( Interface Inheritance ).exe
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 55 ( Interface Inheritance )\Lecture - 55 ( Interface Inheritance )\obj\Debug\Lecture - 55 ( Interface Inheritance ).pdb
