@@ -1,0 +1,7 @@
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 54 ( Abstract Properties )\Lecture - 54 ( Abstract Properties )\bin\Debug\Lecture - 54 ( Abstract Properties ).exe.config
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 54 ( Abstract Properties )\Lecture - 54 ( Abstract Properties )\bin\Debug\Lecture - 54 ( Abstract Properties ).exe
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 54 ( Abstract Properties )\Lecture - 54 ( Abstract Properties )\bin\Debug\Lecture - 54 ( Abstract Properties ).pdb
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 54 ( Abstract Properties )\Lecture - 54 ( Abstract Properties )\obj\Debug\Lecture - 54 ( Abstract Properties ).csproj.AssemblyReference.cache
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 54 ( Abstract Properties )\Lecture - 54 ( Abstract Properties )\obj\Debug\Lecture - 54 ( Abstract Properties ).csproj.CoreCompileInputs.cache
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 54 ( Abstract Properties )\Lecture - 54 ( Abstract Properties )\obj\Debug\Lecture - 54 ( Abstract Properties ).exe
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 54 ( Abstract Properties )\Lecture - 54 ( Abstract Properties )\obj\Debug\Lecture - 54 ( Abstract Properties ).pdb
