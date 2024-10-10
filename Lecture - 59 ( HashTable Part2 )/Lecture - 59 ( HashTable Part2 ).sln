@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture - 59 ( HashTable Part2 )", "Lecture - 59 ( HashTable Part2 )\Lecture - 59 ( HashTable Part2 ).csproj", "{647837F1-141A-4DB4-8AD5-3FF27E38A871}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{647837F1-141A-4DB4-8AD5-3FF27E38A871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{647837F1-141A-4DB4-8AD5-3FF27E38A871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{647837F1-141A-4DB4-8AD5-3FF27E38A871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{647837F1-141A-4DB4-8AD5-3FF27E38A871}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {008BAFED-4863-4AC1-8D82-21F3D0E02E65}
+	EndGlobalSection
+EndGlobal
