@@ -1,0 +1,7 @@
+C:\Users\Mayank Pal\source\repos\Lecture - 57 ( Multiple Inehritance )\Lecture - 57 ( Multiple Inehritance )\bin\Debug\Lecture - 57 ( Multiple Inehritance ).exe.config
+C:\Users\Mayank Pal\source\repos\Lecture - 57 ( Multiple Inehritance )\Lecture - 57 ( Multiple Inehritance )\bin\Debug\Lecture - 57 ( Multiple Inehritance ).exe
+C:\Users\Mayank Pal\source\repos\Lecture - 57 ( Multiple Inehritance )\Lecture - 57 ( Multiple Inehritance )\bin\Debug\Lecture - 57 ( Multiple Inehritance ).pdb
+C:\Users\Mayank Pal\source\repos\Lecture - 57 ( Multiple Inehritance )\Lecture - 57 ( Multiple Inehritance )\obj\Debug\Lecture - 57 ( Multiple Inehritance ).csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\source\repos\Lecture - 57 ( Multiple Inehritance )\Lecture - 57 ( Multiple Inehritance )\obj\Debug\Lecture - 57 ( Multiple Inehritance ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\source\repos\Lecture - 57 ( Multiple Inehritance )\Lecture - 57 ( Multiple Inehritance )\obj\Debug\Lecture - 57 ( Multiple Inehritance ).exe
+C:\Users\Mayank Pal\source\repos\Lecture - 57 ( Multiple Inehritance )\Lecture - 57 ( Multiple Inehritance )\obj\Debug\Lecture - 57 ( Multiple Inehritance ).pdb
