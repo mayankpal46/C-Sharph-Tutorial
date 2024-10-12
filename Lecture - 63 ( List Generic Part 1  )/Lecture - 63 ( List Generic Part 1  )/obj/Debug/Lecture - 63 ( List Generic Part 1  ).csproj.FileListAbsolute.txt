@@ -1,0 +1,7 @@
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 63 ( List Generic Part 1  )\Lecture - 63 ( List Generic Part 1  )\bin\Debug\Lecture - 63 ( List Generic Part 1  ).exe.config
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 63 ( List Generic Part 1  )\Lecture - 63 ( List Generic Part 1  )\bin\Debug\Lecture - 63 ( List Generic Part 1  ).exe
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 63 ( List Generic Part 1  )\Lecture - 63 ( List Generic Part 1  )\bin\Debug\Lecture - 63 ( List Generic Part 1  ).pdb
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 63 ( List Generic Part 1  )\Lecture - 63 ( List Generic Part 1  )\obj\Debug\Lecture - 63 ( List Generic Part 1  ).csproj.AssemblyReference.cache
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 63 ( List Generic Part 1  )\Lecture - 63 ( List Generic Part 1  )\obj\Debug\Lecture - 63 ( List Generic Part 1  ).csproj.CoreCompileInputs.cache
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 63 ( List Generic Part 1  )\Lecture - 63 ( List Generic Part 1  )\obj\Debug\Lecture - 63 ( List Generic Part 1  ).exe
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 63 ( List Generic Part 1  )\Lecture - 63 ( List Generic Part 1  )\obj\Debug\Lecture - 63 ( List Generic Part 1  ).pdb
