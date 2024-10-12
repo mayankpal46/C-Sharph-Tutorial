@@ -1,0 +1,7 @@
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 60 ( Stack Non-Generic )\Lecture - 60 ( Stack Non-Generic )\bin\Debug\Lecture - 60 ( Stack Non-Generic ).exe.config
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 60 ( Stack Non-Generic )\Lecture - 60 ( Stack Non-Generic )\bin\Debug\Lecture - 60 ( Stack Non-Generic ).exe
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 60 ( Stack Non-Generic )\Lecture - 60 ( Stack Non-Generic )\bin\Debug\Lecture - 60 ( Stack Non-Generic ).pdb
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 60 ( Stack Non-Generic )\Lecture - 60 ( Stack Non-Generic )\obj\Debug\Lecture - 60 ( Stack Non-Generic ).csproj.AssemblyReference.cache
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 60 ( Stack Non-Generic )\Lecture - 60 ( Stack Non-Generic )\obj\Debug\Lecture - 60 ( Stack Non-Generic ).csproj.CoreCompileInputs.cache
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 60 ( Stack Non-Generic )\Lecture - 60 ( Stack Non-Generic )\obj\Debug\Lecture - 60 ( Stack Non-Generic ).exe
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 60 ( Stack Non-Generic )\Lecture - 60 ( Stack Non-Generic )\obj\Debug\Lecture - 60 ( Stack Non-Generic ).pdb
