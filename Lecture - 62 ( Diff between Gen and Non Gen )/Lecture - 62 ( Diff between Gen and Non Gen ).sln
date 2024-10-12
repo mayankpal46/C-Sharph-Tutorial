@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture - 62 ( Diff between Gen and Non Gen )", "Lecture - 62 ( Diff between Gen and Non Gen )\Lecture - 62 ( Diff between Gen and Non Gen ).csproj", "{5F7D4E71-5B6F-4E8D-89F9-3E02227F7F81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F7D4E71-5B6F-4E8D-89F9-3E02227F7F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F7D4E71-5B6F-4E8D-89F9-3E02227F7F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F7D4E71-5B6F-4E8D-89F9-3E02227F7F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F7D4E71-5B6F-4E8D-89F9-3E02227F7F81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {435D824D-C3AB-485A-BFAA-D2F3936357F6}
+	EndGlobalSection
+EndGlobal
