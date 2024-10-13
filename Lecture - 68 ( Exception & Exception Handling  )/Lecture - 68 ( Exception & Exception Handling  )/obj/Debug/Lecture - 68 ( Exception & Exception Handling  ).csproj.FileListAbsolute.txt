@@ -1,0 +1,7 @@
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 68 ( Exception & Exception Handling  )\Lecture - 68 ( Exception & Exception Handling  )\bin\Debug\Lecture - 68 ( Exception & Exception Handling  ).exe.config
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 68 ( Exception & Exception Handling  )\Lecture - 68 ( Exception & Exception Handling  )\bin\Debug\Lecture - 68 ( Exception & Exception Handling  ).exe
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 68 ( Exception & Exception Handling  )\Lecture - 68 ( Exception & Exception Handling  )\bin\Debug\Lecture - 68 ( Exception & Exception Handling  ).pdb
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 68 ( Exception & Exception Handling  )\Lecture - 68 ( Exception & Exception Handling  )\obj\Debug\Lecture - 68 ( Exception & Exception Handling  ).csproj.AssemblyReference.cache
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 68 ( Exception & Exception Handling  )\Lecture - 68 ( Exception & Exception Handling  )\obj\Debug\Lecture - 68 ( Exception & Exception Handling  ).csproj.CoreCompileInputs.cache
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 68 ( Exception & Exception Handling  )\Lecture - 68 ( Exception & Exception Handling  )\obj\Debug\Lecture - 68 ( Exception & Exception Handling  ).exe
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 68 ( Exception & Exception Handling  )\Lecture - 68 ( Exception & Exception Handling  )\obj\Debug\Lecture - 68 ( Exception & Exception Handling  ).pdb
