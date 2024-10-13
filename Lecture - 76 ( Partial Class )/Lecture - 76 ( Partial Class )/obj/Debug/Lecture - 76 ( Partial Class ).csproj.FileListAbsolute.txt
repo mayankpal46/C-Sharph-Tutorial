@@ -1,0 +1,7 @@
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 76 ( Partial Class )\Lecture - 76 ( Partial Class )\bin\Debug\Lecture - 76 ( Partial Class ).exe.config
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 76 ( Partial Class )\Lecture - 76 ( Partial Class )\bin\Debug\Lecture - 76 ( Partial Class ).exe
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 76 ( Partial Class )\Lecture - 76 ( Partial Class )\bin\Debug\Lecture - 76 ( Partial Class ).pdb
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 76 ( Partial Class )\Lecture - 76 ( Partial Class )\obj\Debug\Lecture - 76 ( Partial Class ).csproj.AssemblyReference.cache
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 76 ( Partial Class )\Lecture - 76 ( Partial Class )\obj\Debug\Lecture - 76 ( Partial Class ).csproj.CoreCompileInputs.cache
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 76 ( Partial Class )\Lecture - 76 ( Partial Class )\obj\Debug\Lecture - 76 ( Partial Class ).exe
+C:\Users\mayan\OneDrive\Desktop\C-Sharph-Tutorial\Lecture - 76 ( Partial Class )\Lecture - 76 ( Partial Class )\obj\Debug\Lecture - 76 ( Partial Class ).pdb
