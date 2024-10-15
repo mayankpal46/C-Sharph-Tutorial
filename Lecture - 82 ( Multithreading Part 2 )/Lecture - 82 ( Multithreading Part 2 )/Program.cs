@@ -52,7 +52,7 @@ namespace Lecture___82___Multithreading_Part_2__
             //Program.m3();
 
             //All these thread all child class of main thread 
-            // main thread automatically create one our applications starts
+            // main thread automatically create one our applications starts 
             Thread t1 = new Thread(m1);
             Thread t2 = new Thread(m2);
             Thread t3 = new Thread(m3);
